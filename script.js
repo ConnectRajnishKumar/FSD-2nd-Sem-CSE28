@@ -97,6 +97,10 @@ let str1 = "Hello, ";
 let str2 = "World!";
 console.log(str1 + str2);
 
+let text1 = "What a very ";
+text1 += "nice day";
+console.log(text1);
+
 // Ternary Operator
 // condition? true : false;
 let age = 18;
