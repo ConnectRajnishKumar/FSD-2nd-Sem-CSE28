@@ -35,11 +35,11 @@ for (let i = 1; i <= n; i++) {
 
 
 
-//     //Arrays in JavaScript
-//     let arr = [1, 2, 3, 4, 5];
-//     console.log(arr);
-//     arr.push(6);
-//     console.log(arr);
+    //Arrays in JavaScript
+    let arr = [1, 2, 3, 4, 5];
+    console.log(arr);
+    arr.push(6);
+    console.log(arr);
 
 
 //     let fruits = ["Apple", "Banana", "Cherry"];
