@@ -1,18 +1,18 @@
-//for loop
+for loop
 
-// let n = 5; let sum = 0;
-// for (let i = 1; i <= n; i++) {
-//     sum = sum + i;
-//     console.log(sum);
-// }
-//  console.log(sum);
+let n = 5; let sum = 0;
+for (let i = 1; i <= n; i++) {
+    sum = sum + i;
+    console.log(sum);
+}
+ console.log(sum);
 
-//  //while loop
-//  let count = 0;
-//  while (count < 5) {
-//      console.log(count);
-//      count++;
-//  }
+ //while loop
+ let count = 0;
+ while (count < 5) {
+     console.log(count);
+     count++;
+ }
 
 
 //  //do while loop
