@@ -15,23 +15,23 @@ for (let i = 1; i <= n; i++) {
  }
 
 
-//  //do while loop
-//     let i = 0;
-//     do {
-//         console.log(i);
-//         i++;
-//     } while (i < 5);
+ //do while loop
+    let i = 0;
+    do {
+        console.log(i);
+        i++;
+    } while (i < 5);
 
 
-//     //objects in JavaScript
+    //objects in JavaScript
 
-//     let student = {
-//         Name : "Hari",
-//         Roll : 1234,
-//         email : "hari@gmail.com",
+    let student = {
+        Name : "Hari",
+        Roll : 1234,
+        email : "hari@gmail.com",
 
-// }
-//     console.log(student);
+}
+    console.log(student);
 
 
 
