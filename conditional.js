@@ -10,7 +10,7 @@ else if (age>9 && age<=16) {
 else {
     console.log("You are eligible");
 }
-// Second Program
+
 let temp = 25;
 if (temp > 30) {
     console.log("It's hot");
