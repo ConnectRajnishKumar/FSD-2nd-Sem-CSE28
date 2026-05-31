@@ -42,13 +42,13 @@ for (let i = 1; i <= n; i++) {
     console.log(arr);
 
 
-//     let fruits = ["Apple", "Banana", "Cherry"];
-//     console.log(fruits);
-//     console.log(fruits[1]);
-//     fruits.push("Mango");
-//     console.log(fruits);
-//     fruits.pop();
-//     console.log(fruits);
+    let fruits = ["Apple", "Banana", "Cherry"];
+    console.log(fruits);
+    console.log(fruits[1]);
+    fruits.push("Mango");
+    console.log(fruits);
+    fruits.pop();
+    console.log(fruits);
 
 //      let viralmemes = ["meow", "ghop ghop", "Chachaa"];
 //         console.log(viralmemes);
