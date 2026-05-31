@@ -50,20 +50,20 @@ for (let i = 1; i <= n; i++) {
     fruits.pop();
     console.log(fruits);
 
-//      let viralmemes = ["meow", "ghop ghop", "Chachaa"];
-//         console.log(viralmemes);
+     let viralmemes = ["meow", "ghop ghop", "Chachaa"];
+        console.log(viralmemes);
 
 
 
 
 
 
-        // let students = ['Hari' , 'Sita' , 'Gita'];
-        // console.log(students);
-        // students.push('Raja');
-        // console.log(students);
-        // console.log(students[3]);
+        let students = ['Hari' , 'Sita' , 'Gita'];
+        console.log(students);
+        students.push('Raja');
+        console.log(students);
+        console.log(students[3]);
 
 
-        //objects in JavaScript
+        objects in JavaScript
         
